@@ -1,4 +1,4 @@
-# Task-1-LANDING-PAGEThis project is a hands-on exercise in mastering the foundational concepts of HTML and CSS, aimed at helping you build a strong web development skillset. Through this project, you'll learn how to create visually appealing and structured web pages. Key components of this project include adding columns, section divisions, item arrangements, headers, and footers.
+#CodeAlpha Task-1-LANDING-PAGEThis project is a hands-on exercise in mastering the foundational concepts of HTML and CSS, aimed at helping you build a strong web development skillset. Through this project, you'll learn how to create visually appealing and structured web pages. Key components of this project include adding columns, section divisions, item arrangements, headers, and footers.
 
 What You Will Learn:
 
